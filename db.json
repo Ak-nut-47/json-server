@@ -40,5 +40,33 @@
       "category": "Music",
       "price": 400
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "profile_picture": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "profile_picture": "https://via.placeholder.com/150"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Widget",
+      "price": 9.99,
+      "image": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 102,
+      "name": "Gadget",
+      "price": 19.99,
+      "image": "https://via.placeholder.com/300"
+    }
   ]
 }
