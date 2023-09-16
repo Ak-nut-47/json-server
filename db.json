@@ -56,5 +56,77 @@
       "image": "https://via.placeholder.com/300"
     }
   ],
-  "forum": []
+  "forum": [],
+  "zomato_chronicles": [
+    {
+      "id": 1,
+      "dish_name": "Spaghetti Carbonara",
+      "price": 12.99,
+      "availability": true,
+      "picture_url": "https://example.com/spaghetti.jpg"
+    },
+    {
+      "id": 2,
+      "dish_name": "Margherita Pizza",
+      "price": 10.49,
+      "availability": true,
+      "picture_url": "https://example.com/pizza.jpg"
+    },
+    {
+      "id": 3,
+      "dish_name": "Caesar Salad",
+      "price": 8.99,
+      "availability": true,
+      "picture_url": "https://example.com/salad.jpg"
+    },
+    {
+      "id": 4,
+      "dish_name": "Beef Burger",
+      "price": 9.99,
+      "availability": true,
+      "picture_url": "https://example.com/burger.jpg"
+    },
+    {
+      "id": 5,
+      "dish_name": "Vegetable Stir-Fry",
+      "price": 11.99,
+      "availability": true,
+      "picture_url": "https://example.com/stir-fry.jpg"
+    },
+    {
+      "id": 6,
+      "dish_name": "Fish and Chips",
+      "price": 13.49,
+      "availability": true,
+      "picture_url": "https://example.com/fish-chips.jpg"
+    },
+    {
+      "id": 7,
+      "dish_name": "Chicken Alfredo",
+      "price": 14.99,
+      "availability": true,
+      "picture_url": "https://example.com/alfredo.jpg"
+    },
+    {
+      "id": 8,
+      "dish_name": "Veggie Burger",
+      "price": 8.99,
+      "availability": false,
+      "picture_url": "https://example.com/veggie-burger.jpg"
+    },
+    {
+      "id": 9,
+      "dish_name": "Cheese Quesadilla",
+      "price": 7.99,
+      "availability": true,
+      "picture_url": "https://example.com/quesadilla.jpg"
+    },
+    {
+      "id": 10,
+      "dish_name": "Chocolate Cake",
+      "price": 5.99,
+      "availability": true,
+      "picture_url": "https://example.com/cake.jpg"
+    }
+  ]
 }
